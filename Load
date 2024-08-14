@@ -1,6 +1,6 @@
 local module = {
 	[1] = {
-		GameID = 16897401419,
+		GameID = 18454084237,
 		Text = "🔪 JD's MM2"
 	},
 }
