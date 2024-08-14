@@ -7,6 +7,11 @@ local module = {
 		GameID = 18772665362,
 		Text = "🔥 MMV"
 	},
+       [3] = {
+		GameID = 13949397343,
+		Text = "[💘UPD!] Skibi's MM2"
+	},
+
 }
 
 return module
