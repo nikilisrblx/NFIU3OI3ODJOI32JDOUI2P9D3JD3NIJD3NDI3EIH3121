@@ -3,7 +3,7 @@ local module = {
 		GameID = 18454084237,
 		Text = "🔪 JD's MM2"
 	},
-[2] = {
+        [2] = {
 		GameID = 18772665362,
 		Text = "🔥 MMV"
 	},
