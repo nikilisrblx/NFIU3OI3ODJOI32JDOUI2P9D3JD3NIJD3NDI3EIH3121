@@ -1,0 +1,8 @@
+local module = {
+	[1] = {
+		GameID = 16897401419,
+		Text = "🔪 JD's MM2"
+	},
+}
+
+return module
