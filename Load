@@ -1,7 +1,6 @@
 local module = {
 	[1] = {
 		GameID = 116818534033901,
-		Text = "[🦇UPD] Haz3mn's MM2"
 	},
      
 }
